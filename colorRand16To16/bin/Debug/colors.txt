@@ -1,0 +1,4 @@
+Red Green Blue Percent
+134 97 57 20
+6 9 178 70
+89 34 14 10 

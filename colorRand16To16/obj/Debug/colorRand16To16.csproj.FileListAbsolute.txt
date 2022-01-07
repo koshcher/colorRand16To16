@@ -1,0 +1,14 @@
+D:\Git\koshcher\colorRand16To16\colorRand16To16\colorRand16To16\bin\Debug\colorRand16To16.exe.config
+D:\Git\koshcher\colorRand16To16\colorRand16To16\colorRand16To16\bin\Debug\colorRand16To16.exe
+D:\Git\koshcher\colorRand16To16\colorRand16To16\colorRand16To16\bin\Debug\colorRand16To16.pdb
+D:\Git\koshcher\colorRand16To16\colorRand16To16\colorRand16To16\obj\Debug\colorRand16To16.csproj.AssemblyReference.cache
+D:\Git\koshcher\colorRand16To16\colorRand16To16\colorRand16To16\obj\Debug\colorRand16To16.csproj.CoreCompileInputs.cache
+D:\Git\koshcher\colorRand16To16\colorRand16To16\colorRand16To16\obj\Debug\colorRand16To16.exe
+D:\Git\koshcher\colorRand16To16\colorRand16To16\colorRand16To16\obj\Debug\colorRand16To16.pdb
+D:\Git\koshcher\colorRand16To16\colorRand16To16\obj\Debug\colorRand16To16.csproj.AssemblyReference.cache
+D:\Git\koshcher\colorRand16To16\colorRand16To16\obj\Debug\colorRand16To16.csproj.CoreCompileInputs.cache
+D:\Git\koshcher\colorRand16To16\colorRand16To16\obj\Debug\colorRand16To16.exe
+D:\Git\koshcher\colorRand16To16\colorRand16To16\obj\Debug\colorRand16To16.pdb
+D:\Git\koshcher\colorRand16To16\colorRand16To16\bin\Debug\colorRand16To16.exe.config
+D:\Git\koshcher\colorRand16To16\colorRand16To16\bin\Debug\colorRand16To16.exe
+D:\Git\koshcher\colorRand16To16\colorRand16To16\bin\Debug\colorRand16To16.pdb
